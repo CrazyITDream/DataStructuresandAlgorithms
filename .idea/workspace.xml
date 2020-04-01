@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fe16c43-1b73-49e0-bfba-d316a6e39878" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataStructuresandAlgorithms" />
+  </component>
+  <component name="ProjectId" id="1ZjrlBhSSOvRtp5lsGIQerKAjFl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Python.Palcheckers">
+    <configuration name="Palcheckers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deques" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deques/Palcheckers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="queuebase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\python_project\WorkSpace\data_structure\Queues\queuebase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queues/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Palcheckers" />
+        <item itemvalue="Python.test2 (1)" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.queuebase" />
+        <item itemvalue="Python.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fe16c43-1b73-49e0-bfba-d316a6e39878" name="Default Changelist" comment="" />
+      <created>1585363492180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585363492180</updated>
+      <workItem from="1585363493680" duration="6988000" />
+      <workItem from="1585402938066" duration="4122000" />
+      <workItem from="1585442724455" duration="25538000" />
+      <workItem from="1585531673409" duration="14251000" />
+      <workItem from="1585579929561" duration="2233000" />
+      <workItem from="1585622091896" duration="2409000" />
+      <workItem from="1585725623728" duration="739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="629" height="135" key="GridCell.Tab.0.bottom" timestamp="1585582182552">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="629" height="135" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1585582182552" />
+    <state width="629" height="135" key="GridCell.Tab.0.center" timestamp="1585582182552">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="629" height="135" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1585582182552" />
+    <state width="629" height="135" key="GridCell.Tab.0.left" timestamp="1585582182552">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="629" height="135" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1585582182552" />
+    <state width="629" height="135" key="GridCell.Tab.0.right" timestamp="1585582182552">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="629" height="135" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1585582182552" />
+    <state width="644" height="237" key="GridCell.Tab.1.bottom" timestamp="1585560403499">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="644" height="237" key="GridCell.Tab.1.bottom/0.40.1366.728@0.40.1366.728" timestamp="1585560403499" />
+    <state width="644" height="237" key="GridCell.Tab.1.center" timestamp="1585560403499">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="644" height="237" key="GridCell.Tab.1.center/0.40.1366.728@0.40.1366.728" timestamp="1585560403499" />
+    <state width="644" height="237" key="GridCell.Tab.1.left" timestamp="1585560403499">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="644" height="237" key="GridCell.Tab.1.left/0.40.1366.728@0.40.1366.728" timestamp="1585560403499" />
+    <state width="644" height="237" key="GridCell.Tab.1.right" timestamp="1585560403499">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="644" height="237" key="GridCell.Tab.1.right/0.40.1366.728@0.40.1366.728" timestamp="1585560403499" />
+    <state x="252" y="57" key="SettingsEditor" timestamp="1585466799401">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="252" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585363579314" />
+    <state x="252" y="57" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1585466799401" />
+    <state width="690" height="367" key="XDebugger.FullValuePopup" timestamp="1585379960045">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="690" height="367" key="XDebugger.FullValuePopup/0.40.1366.728@0.40.1366.728" timestamp="1585379960045" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585495487746">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1585495487746" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/base/ch1.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_structure$ch1__1_.coverage" NAME="ch1 (1) Coverage Results" MODIFIED="1585407102243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02" />
+    <SUITE FILE_PATH="coverage/data_structure$ch5.coverage" NAME="ch5 Coverage Results" MODIFIED="1585495396810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02" />
+    <SUITE FILE_PATH="coverage/data_structure$ch1.coverage" NAME="ch1 Coverage Results" MODIFIED="1585405598031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter01" />
+    <SUITE FILE_PATH="coverage/data_structure$ch3.coverage" NAME="ch3 Coverage Results" MODIFIED="1585476047610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02" />
+    <SUITE FILE_PATH="coverage/data_structure$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1585555110771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue" />
+    <SUITE FILE_PATH="coverage/data_structure$queue__1_.coverage" NAME="queue (1) Coverage Results" MODIFIED="1585555187164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
+    <SUITE FILE_PATH="coverage/data_structure$Palcheckers.coverage" NAME="Palcheckers Coverage Results" MODIFIED="1585581683545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deques" />
+    <SUITE FILE_PATH="coverage/data_structure$queue.coverage" NAME="queue Coverage Results" MODIFIED="1585534515673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue" />
+    <SUITE FILE_PATH="coverage/data_structure$ch4.coverage" NAME="ch4 Coverage Results" MODIFIED="1585491496145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02" />
+    <SUITE FILE_PATH="coverage/data_structure$ch2.coverage" NAME="ch2 Coverage Results" MODIFIED="1585470995540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02" />
+    <SUITE FILE_PATH="coverage/data_structure$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1585539662001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue" />
+    <SUITE FILE_PATH="coverage/data_structure$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1585558261036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queues" />
+  </component>
+</project>
