@@ -20,6 +20,13 @@ class Node:
 
     def getData(self):
         """
+        获取下一个值
+        :return:
+        """
+        return self.data
+
+    def getNext(self):
+        """
         获取下一个节点
         :return:
         """
