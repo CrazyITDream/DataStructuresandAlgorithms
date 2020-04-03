@@ -14,16 +14,17 @@ python实现回文检测器
 from Deques.dequebase import Deque
 
 
-def palcheckers(string):
+def palcheckers(String):
     """
     实现回文检测
-    :param string:
-    :return:
+    :param String:需要检测的回文串
+    :return:False 和 True
     """
     chardeque = Deque()
 
-    for str in string:
-        chardeque.addRear(str)
+    for str in String:
+        if str != " ":
+            chardeque.addRear(str)
 
     while chardeque.size() > 1:
         first = chardeque.removeFront()
@@ -34,7 +35,7 @@ def palcheckers(string):
 
 
 if __name__ == '__main__':
-    print(palcheckers('listatsil'))
+    print(palcheckers('l istatsil'))
 
 
 

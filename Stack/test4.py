@@ -24,10 +24,10 @@ def postfixEval(operandStrack, tokenList, operand, operateSymbol):
     :return:计算结果
     """
     for token in tokenList:
-        if token in operand:                # 判断是否为操作数
+        if token in operand:  # 判断是否为操作数
             operandStrack.push(int(token))
-        if token in operateSymbol:        # 判断是否为操作符
-            if not operandStrack.isEmpty():     # 判断栈是否为空
+        if token in operateSymbol:  # 判断是否为操作符
+            if not operandStrack.isEmpty():  # 判断栈是否为空
                 operand_1 = operandStrack.pop()
                 operand_2 = operandStrack.pop()
                 result = calculate(operand_1, operand_2, token)
@@ -45,18 +45,18 @@ def calculate(num1, num2, symbol):
     :return:计算后的结果
     """
     if symbol == '+':
-        return num1+num2
+        return num1 + num2
     if symbol == '-':
-        return num1-num2
+        return num1 - num2
     if symbol == '*':
-        return num1*num2
+        return num1 * num2
     if symbol == '/':
-        return num1/num2
+        return num1 / num2
     else:
         return None
 
 
-def simplification(postfixExpr, operand, operateSymbol):
+def simplification(postfixExpr, operand):
     """
     对输入表达式判断以及分类
     :param postfixExpr:输入的表达式
@@ -65,13 +65,14 @@ def simplification(postfixExpr, operand, operateSymbol):
     :return:处理后的表达式列表
     """
     tokenLists = []
+    operateSymbol_list = ['+', '-', '*', '/', '(', ')']
     for i in list(postfixExpr):
-        if i in operand or i in operateSymbol:
+        if i in operand or i in operateSymbol_list:
             tokenLists.append(i)
         elif i == ' ':
             pass
         else:
-            raise Exception("你输入的不是操作数(0-9)或者操作符(+-*/),你的输入为:{}", format(i))
+            raise Exception("你输入的不是操作数(0-9)或者操作符(+-*/),你的输入为:%s", format(i))
     return tokenLists
 
 
@@ -95,14 +96,7 @@ def create_operand():
 
 if __name__ == '__main__':
     postfixExpr = input("请输入要计算的后序表达式:")
-    operandStrack = create_Target()         # 操作栈对象
+    operandStrack = create_Target()  # 操作栈对象
     operand, operateSymbol = create_operand()
-    tokenLists = simplification(postfixExpr, operand, operateSymbol)
-    print(str("".join(tokenLists))+"="+str(postfixEval(operandStrack, tokenLists, operand, operateSymbol)))
-
-
-
-
-
-
-
+    tokenLists = simplification(postfixExpr, operand)
+    print(str("".join(tokenLists)) + "=" + str(postfixEval(operandStrack, tokenLists, operand, operateSymbol)))

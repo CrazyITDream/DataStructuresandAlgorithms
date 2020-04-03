@@ -12,7 +12,7 @@
 利用python的列表模拟对栈的操作
 """
 
-
+'''
 class Stack:
     # 假设栈的顶部就是列表的尾部
     def __init__(self):
@@ -55,7 +55,7 @@ class Stack:
         """
         return len(self.item)
 
-'''
+
 if __name__ == '__main__':
     s = Stack()
     # 判断栈是否为空
@@ -80,7 +80,7 @@ if __name__ == '__main__':
     # 获取上除后栈的长度
     print("栈中还剩下:"+str(s.size())+"个元素")
 
-
+'''
 class Stack:
     # 假设栈的顶部为列表的头部
     def __init__(self):
@@ -130,30 +130,30 @@ class Stack:
         return len(self.item)
 
 
-if __name__ == '__main__':
-    s = Stack()
-    # 判断栈是否为空
-    print('为空' if s.isEmpty() else '不为空')       # 三元运算符
+# if __name__ == '__main__':
+#     s = Stack()
+#     # 判断栈是否为空
+#     print('为空' if s.isEmpty() else '不为空')       # 三元运算符
+#
+#     # 添加元素
+#     s.push(2)
+#     s.push('dog')
+#     # 获取栈顶元素
+#     print("栈顶元素为:"+s.peek())
+#     # 获取栈的元素个数
+#     print("栈中一共有:"+str(s.size())+"个元素")
+#     # 添加元素
+#     s.push(True)
+#
+#     # 获取栈的元素个数
+#     print("栈中一共有:"+str(s.size())+"个元素")
+#
+#     # 删除栈顶元素
+#     print('删除成功' if s.pop() else '删除不成功')
+#
+#     # 获取上除后栈的长度
+#     print("栈中还剩下:"+str(s.size())+"个元素")
 
-    # 添加元素
-    s.push(2)
-    s.push('dog')
-    # 获取栈顶元素
-    print("栈顶元素为:"+s.peek())
-    # 获取栈的元素个数
-    print("栈中一共有:"+str(s.size())+"个元素")
-    # 添加元素
-    s.push(True)
-
-    # 获取栈的元素个数
-    print("栈中一共有:"+str(s.size())+"个元素")
-
-    # 删除栈顶元素
-    print('删除成功' if s.pop() else '删除不成功')
-
-    # 获取上除后栈的长度
-    print("栈中还剩下:"+str(s.size())+"个元素")
-'''
 
 
 
