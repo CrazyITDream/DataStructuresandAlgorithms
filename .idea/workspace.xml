@@ -181,6 +181,8 @@
       <workItem from="1586442526505" duration="4111000" />
       <workItem from="1586494026656" duration="9621000" />
       <workItem from="1586582056845" duration="8119000" />
+      <workItem from="1586699252062" duration="1925000" />
+      <workItem from="1586787017527" duration="4757000" />
     </task>
     <servers />
   </component>
@@ -192,6 +194,10 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="275" y="65" key="#Notifications/0.40.1366.728@0.40.1366.728" timestamp="1585751979989" />
+    <state x="746" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586791020440">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="746" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1366.728@0.40.1366.728" timestamp="1586791020440" />
     <state x="756" y="140" width="517" height="528" key="DiffContextDialog" timestamp="1586092996992">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
@@ -200,22 +206,22 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="529" y="170" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1586092959400" />
-    <state width="657" height="129" key="GridCell.Tab.0.bottom" timestamp="1586614620878">
+    <state width="657" height="263" key="GridCell.Tab.0.bottom" timestamp="1586792341562">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="657" height="129" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1586614620878" />
-    <state width="657" height="129" key="GridCell.Tab.0.center" timestamp="1586614620878">
+    <state width="657" height="263" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1586792341562" />
+    <state width="657" height="263" key="GridCell.Tab.0.center" timestamp="1586792341562">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="657" height="129" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1586614620878" />
-    <state width="657" height="129" key="GridCell.Tab.0.left" timestamp="1586614620878">
+    <state width="657" height="263" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1586792341562" />
+    <state width="657" height="263" key="GridCell.Tab.0.left" timestamp="1586792341562">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="657" height="129" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1586614620878" />
-    <state width="657" height="129" key="GridCell.Tab.0.right" timestamp="1586614620878">
+    <state width="657" height="263" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1586792341562" />
+    <state width="657" height="263" key="GridCell.Tab.0.right" timestamp="1586792341562">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state width="657" height="129" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1586614620878" />
+    <state width="657" height="263" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1586792341562" />
     <state width="657" height="167" key="GridCell.Tab.1.bottom" timestamp="1586529413254">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
@@ -249,10 +255,10 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="529" y="220" key="git4idea.history.wholeTree.VcsStructureChooser/0.40.1366.728@0.40.1366.728" timestamp="1585752129951" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586610484233">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586791295215">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1586610484233" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1586791295215" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -294,7 +300,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_structure$ch1__1_.coverage" NAME="ch1 (1) Coverage Results" MODIFIED="1585407102243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter02" />
-    <SUITE FILE_PATH="coverage/data_structure$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1586614536804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
+    <SUITE FILE_PATH="coverage/data_structure$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1586788047842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/data_structure$sequentialSearch.coverage" NAME="sequentialSearch Coverage Results" MODIFIED="1586093676609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Search" />
     <SUITE FILE_PATH="coverage/data_structure$ch1.coverage" NAME="ch1 Coverage Results" MODIFIED="1585405598031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter01" />
     <SUITE FILE_PATH="coverage/data_structure$Palcheckers.coverage" NAME="Palcheckers Coverage Results" MODIFIED="1585879269547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deques" />

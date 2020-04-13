@@ -10,24 +10,41 @@
 # -------------------------------------------------------------------------------
 """
 python实现归并排序
+    注：列表的长度为 n 时，能切分log2n 次
 """
 
 
 def mergeSort(sortList):
-    subLen = len(sortList) // 2
-    if len(sortList) > 0 and subLen > 0:
-        rightList = sortList[:subLen]
-        leftList = sortList[subLen:]
-        return mergeSort(rightList)
+    if len(sortList) > 1:
+        subLen = len(sortList) // 2
+        lefthalf = sortList[:subLen]
+        righthalf = sortList[subLen:]
+
+        mergeSort(lefthalf)
+        mergeSort(righthalf)
+
+        i = 0
+        j = 0
+        k = 0
+        while len(lefthalf) > i and len(righthalf) > j:
+            if lefthalf[i] < righthalf[j]:
+                sortList[k] = lefthalf[i]
+                i += 1
+            else:
+                sortList[k] = righthalf[j]
+                j += 1
+            k += 1
+
+        while i < len(lefthalf):
+            sortList[k] = lefthalf[i]
+            i += 1
+            k += 1
+
+        while j < len(righthalf):
+            sortList[k] = righthalf[j]
+            j += 1
+            k += 1
+    return sortList
 
 
-mergeSort([45, 65, 2, 52, 98, 16, 22])
-
-
-
-
-
-
-
-
-
+print(mergeSort([45, 65, 2, 52, 98, 16, 22]))
