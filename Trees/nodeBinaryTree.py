@@ -77,15 +77,61 @@ class Tree:
         """
         return self.root
 
+    def preorder(self):
+        """
+        前序遍历
+        :return:
+        """
+        print(self.root)
+        if self.leftChild:
+            self.leftChild.preorder()
+        if self.rightChild:
+            self.rightChild.preorder()
+
+# def preorder(tree):
+#     """
+#     前序遍历
+#     :param tree:
+#     :return:
+#     """
+#     if tree:
+#         print(tree.getRootValue())
+#         preorder(tree.getLeftNode())
+#         preorder(tree.getRightNode())
+
+
+# def postorder(tree):
+#     """
+#     后序遍历
+#     :param tree:树
+#     :return:
+#     """
+#     if tree != None:
+#         postorder(tree.getRightNode())
+#         postorder(tree.getLeftNode())
+#         print(tree.getRootValue())
+
+
+# def inorder(tree):
+#     """
+#     中序遍历
+#     :param tree: 树
+#     :return:
+#     """
+#     if tree != None:
+#         inorder(tree.getLeftNode())
+#         print(tree.getRootValue())
+#         inorder(tree.getRightNode())
+
 
 if __name__ == '__main__':
     tree = Tree('a')
-    print(tree.getRootValue())
+    # print(tree.getRootValue())
     tree.insertLeft('b')
     tree.insertRight('c')
-    print(tree.getLeftNode().getRootValue())
-    print(tree.getRightNode().getRootValue())
-
+    # print(tree.getLeftNode().getRootValue())
+    # print(tree.getRightNode().getRootValue())
+    tree.preorder()
 
 
 
